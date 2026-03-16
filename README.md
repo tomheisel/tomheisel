@@ -28,6 +28,7 @@ Object-oriented and agile end-to-end software developer of various systems and a
 
 Successful project manager in the following sectors: government, telecommunications, insurance, media, workers' compensation boards, logistics, software and systems integration, data centers and the electrical industry.
 
+<img src="https://github-readme-stats.vercel.app/api?username=tomheisel&theme=graywhite&show_icons=true&hide_border=true&count_private=true" alt="tomheisel's GitHub Stats" />
 
 <!--
 **tomheisel/tomheisel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
